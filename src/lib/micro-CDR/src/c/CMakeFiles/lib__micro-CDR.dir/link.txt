@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc liblib__micro-CDR.a  CMakeFiles/lib__micro-CDR.dir/microCdr.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib liblib__micro-CDR.a

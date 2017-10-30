@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__sf0x.a  CMakeFiles/drivers__sf0x.dir/sf0x.cpp.obj CMakeFiles/drivers__sf0x.dir/sf0x_parser.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__sf0x.a

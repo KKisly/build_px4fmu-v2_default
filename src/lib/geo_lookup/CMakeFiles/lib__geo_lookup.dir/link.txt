@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc liblib__geo_lookup.a  CMakeFiles/lib__geo_lookup.dir/geo_mag_declination.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib liblib__geo_lookup.a

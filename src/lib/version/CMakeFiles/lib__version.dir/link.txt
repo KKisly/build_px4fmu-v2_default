@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc liblib__version.a  CMakeFiles/lib__version.dir/version.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib liblib__version.a

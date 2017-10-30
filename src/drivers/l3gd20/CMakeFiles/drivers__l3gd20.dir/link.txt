@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__l3gd20.a  CMakeFiles/drivers__l3gd20.dir/l3gd20.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__l3gd20.a

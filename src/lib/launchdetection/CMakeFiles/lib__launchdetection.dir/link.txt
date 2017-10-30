@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc liblib__launchdetection.a  CMakeFiles/lib__launchdetection.dir/LaunchDetector.cpp.obj CMakeFiles/lib__launchdetection.dir/CatapultLaunchMethod.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib liblib__launchdetection.a

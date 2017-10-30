@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc liblib__tailsitter_recovery.a  CMakeFiles/lib__tailsitter_recovery.dir/tailsitter_recovery.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib liblib__tailsitter_recovery.a

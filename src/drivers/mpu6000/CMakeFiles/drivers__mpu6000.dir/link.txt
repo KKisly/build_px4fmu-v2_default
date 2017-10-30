@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__mpu6000.a  CMakeFiles/drivers__mpu6000.dir/mpu6000.cpp.obj CMakeFiles/drivers__mpu6000.dir/mpu6000_i2c.cpp.obj CMakeFiles/drivers__mpu6000.dir/mpu6000_spi.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__mpu6000.a

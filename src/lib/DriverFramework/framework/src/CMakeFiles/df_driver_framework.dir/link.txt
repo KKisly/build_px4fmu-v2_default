@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdf_driver_framework.a  CMakeFiles/df_driver_framework.dir/DriverFramework_NuttX.cpp.obj CMakeFiles/df_driver_framework.dir/DevMgr_Nuttx.cpp.obj CMakeFiles/df_driver_framework.dir/DFList.cpp.obj CMakeFiles/df_driver_framework.dir/SyncObj.cpp.obj CMakeFiles/df_driver_framework.dir/Time.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdf_driver_framework.a

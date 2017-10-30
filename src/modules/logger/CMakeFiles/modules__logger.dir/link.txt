@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libmodules__logger.a  CMakeFiles/modules__logger.dir/logger.cpp.obj CMakeFiles/modules__logger.dir/log_writer.cpp.obj CMakeFiles/modules__logger.dir/log_writer_file.cpp.obj CMakeFiles/modules__logger.dir/log_writer_mavlink.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libmodules__logger.a

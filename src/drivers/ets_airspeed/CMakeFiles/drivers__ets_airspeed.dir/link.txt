@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__ets_airspeed.a  CMakeFiles/drivers__ets_airspeed.dir/ets_airspeed.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__ets_airspeed.a

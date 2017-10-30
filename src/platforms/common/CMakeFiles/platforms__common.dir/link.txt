@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libplatforms__common.a  CMakeFiles/platforms__common.dir/module.cpp.obj CMakeFiles/platforms__common.dir/px4_getopt.c.obj CMakeFiles/platforms__common.dir/shutdown.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libplatforms__common.a

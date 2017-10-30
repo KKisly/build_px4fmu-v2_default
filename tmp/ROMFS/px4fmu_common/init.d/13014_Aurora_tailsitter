@@ -1,0 +1,16 @@
+sh /etc/init.d/rc.vtol_defaults
+if [ $AUTOCNF == yes ]
+then
+param set VT_MOT_COUNT 8
+param set VT_IDLE_PWM_MC 1080
+param set VT_TRANS_THR 0.75
+param set VT_TYPE 0
+fi
+set MIXER Aurora
+set PWM_OUT 12345678
+set PWM_RATE 400
+set MIXER_AUX Aurora
+set PWM_AUX_RATE 50
+set PWM_AUX_MIN 1000
+set PWM_AUX_MAX 2000
+set MAV_TYPE 20

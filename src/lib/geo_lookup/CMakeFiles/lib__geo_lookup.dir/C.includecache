@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/intrepid/src1029/Firmware/src/lib/geo_lookup/geo_mag_declination.c
+stdint.h
+-
+geo_mag_declination.h
+/home/intrepid/src1029/Firmware/src/lib/geo_lookup/geo_mag_declination.h
+
+/home/intrepid/src1029/Firmware/src/lib/geo_lookup/geo_mag_declination.h
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/arch/limits.h
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/arch/types.h
+nuttx/config.h
+-
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/limits.h
+nuttx/config.h
+-
+arch/limits.h
+-
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/nuttx/compiler.h
+nuttx/config.h
+-
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/nuttx/config.h
+
+px4fmu-v2/NuttX/nuttx/nuttx-export/include/stdint.h
+nuttx/config.h
+-
+arch/stdint.h
+-
+nuttx/compiler.h
+-
+arch/types.h
+-
+limits.h
+-
+

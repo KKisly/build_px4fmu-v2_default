@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libsystemcmds__nshterm.a  CMakeFiles/systemcmds__nshterm.dir/nshterm.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libsystemcmds__nshterm.a
